@@ -1,7 +1,7 @@
 # gamification
 In this Project we will develop a mobile app using gamification to motivate students to do the boring activities in more interesting way.
 
-students will be devided into teams according the table below:
+students will be devided into teams according to the table below:
 
 | Reading documents and summarize team | Research paper writing team | Development team |
 | ------------------------------------ | --------------------------- | ---------------- |
