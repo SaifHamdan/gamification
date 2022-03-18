@@ -46,6 +46,7 @@ students will be devided into subgroups according to the table below:
 | DYN0187733@ju.edu.jo                 | --------------------------- | ---------------- |
 | MHM0192563@ju.edu.jo                 | --------------------------- | ---------------- |
 | DHA2180202@ju.edu.jo                 | --------------------------- | ---------------- |
+| dya0187106@ju.edu.jo                 | --------------------------- | ---------------- |
 
 ## Reading documents and summarize group task:
 
